@@ -294,6 +294,7 @@ C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\ABET-assessment-api.pdb
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Blazored.LocalStorage.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Humanizer.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -363,6 +364,10 @@ C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\NuGet.ProjectModel.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\NuGet.Protocol.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Scrutor.dll
+C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\loran\Documents\GitHub\Graduation-Project---ABET-Assessment-Portal\ABET-assessment-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll

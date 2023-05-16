@@ -1,10 +1,11 @@
 ﻿using ABET_assessment_api.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ABET_assessment_api.DataContext
 {
-    public class Context : DbContext
+    public class Context : IdentityDbContext
     {
 
         public Context(DbContextOptions<Context> options) : base(options)
